@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "430b68ca61b81a188671252a",
+  "owner": "kcmgexnmk",
+  "repo": "page-b158e7f0c44bd7610844794c",
+  "title": "CloudFox",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b158e7f0c44bd7610844794c",
+      "a": "CloudFox",
+      "b": "2027官方最新地址导航",
+      "entity": "CloudFox",
+      "brand": "CloudFox",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9b94d8b3e5db3cac78ea7cac3bdbb379b1148cd092836d112f2cd095e41206d5",
+      "content": {
+        "primary_entity": "CloudFox",
+        "keyword1": "CloudFox",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，CloudFox 提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 与 ¥85，按年付可享更优价格。每月流量从 100GB 到 1000GB，同时在线设备数从 3 台覆盖到 20 台。旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_HERO_SUBTITLE": "CloudFox 订阅与设备配置",
+          "AI_HERO_INTRO": "CloudFox 是一款面向海外网络访问的加速器，按流量与设备数划分三档套餐，适合个人日常、游戏影音与团队协作等不同场景。订阅后按所选客户端文档完成导入即可使用。",
+          "AI_VISUAL_TITLE": "CloudFox 加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更划算",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度说明 CloudFox 的订阅方式，便于确定适合自己的档位。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻量浏览，旗舰版 300GB 满足影音与游戏，团队版 1000GB 适合多设备共用。",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按日常同时在线设备数量选择即可。",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，可按使用时长决定。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "CloudFox 在不同系统上有对应客户端，按设备类型选择并参照其导入说明配置订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备及 IPLC 专线；团队版 ¥85/月含 1000GB、20 台设备与 VIP 节点。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备系统与客户端支持情况，最后导入订阅连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数和预算，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端支持情况，准备对应的安装环境。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端文档，将订阅信息导入并开启连接。",
+          "AI_FAQ_INTRO": "订阅周期、设备限制与线路选择。",
+          "AI_CLOSING_TITLE": "开始使用 CloudFox",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档导入订阅，即可在设备上使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "CloudFox 套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以在当前套餐周期内联系支持人员申请升级，按剩余时长折算费用后补齐差价，具体金额以客服确认为准。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录多少台设备？",
+          "AI_FAQ_ANSWER_2": "基础版最多 3 台，旗舰版最多 5 台，团队版最多 20 台。超出设备数会触发限制，建议按实际设备数量选择套餐。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_3": "IPLC 专线针对游戏加速和低延迟需求优化，适合对延迟敏感的对战类游戏、实时协作等场景使用。",
+          "AI_FAQ_QUESTION_4": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_4": "当月流量耗尽后加速服务会暂停，可以等待下月重置，或联系客服了解流量补充方案。",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "年付在月付价格基础上享受折扣，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，适合长期稳定使用的用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ukvvbso.cn",
+    "host": "ukvvbso.cn"
+  },
+  "file_hashes": {
+    "index.html": "b25f3e162f1237e65b0bdb906b3d841378b3cf8d9c4fd3e05a6843ab5d4385a1",
+    "sitemap.xml": "827ca022926fa591c0bb5e57f23750d9cf8b0a81883faa15550ac5bbf11f6503",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "36734bd2939eb4b94a71e6660969f44249c929fffe4eacb56dbe4de7bfbc52e8",
+    "robots.txt": "0f1da46b25178890012304ac468aca66794fcfae377022df041515313c15fdb1",
+    "437eb1d4bcd710856c87116565569494.txt": "fbd9770760ccf22d5fbeaf132088b49c6be6f1a1cfe12494a8ec3c5b7c6ea838"
+  },
+  "revision": "0faff902e4063719650701245f74a6508cfde33fc34818f90556337511fdbb92"
+}
